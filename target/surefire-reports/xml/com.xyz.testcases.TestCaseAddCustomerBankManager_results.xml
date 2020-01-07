@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Cust Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="1"
+           time="11.303">
+  <properties />
+  
+            <testcase name="testCaseAddCustomerBankManager" time="0.0" classname="com.xyz.testcases.TestCaseAddCustomerBankManager">
+          <skipped />
+    </testcase>
+  
+            <testcase name="testCaseAddCustomerBankManager" time="4.652" classname="com.xyz.testcases.TestCaseAddCustomerBankManager" />
+                <testcase name="testCaseAddCustomerBankManager" time="3.318" classname="com.xyz.testcases.TestCaseAddCustomerBankManager" />
+                <testcase name="testCaseAddCustomerBankManager" time="3.332" classname="com.xyz.testcases.TestCaseAddCustomerBankManager" />
+      
+</testsuite>

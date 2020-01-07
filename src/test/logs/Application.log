@@ -1,0 +1,20 @@
+07/01/2020 23:50:58 devpinoyLogger Launched Chrome Driver
+07/01/2020 23:51:04 devpinoyLogger Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+07/01/2020 23:51:08 devpinoyLogger Browser is maximized
+07/01/2020 23:51:09 devpinoyLogger Testcase TestCaseBankManagerLogin method execution started!!!
+07/01/2020 23:51:12 devpinoyLogger Testcase TestCaseBankManagerLogin method execution finished!!!
+07/01/2020 23:51:12 devpinoyLogger about to screenshot because testcase is successfully passed
+07/01/2020 23:51:13 devpinoyLogger Screenshot taken as testcase is successfully passed
+07/01/2020 23:51:14 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution started!!!
+07/01/2020 23:51:19 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution finished!!!
+07/01/2020 23:51:19 devpinoyLogger about to screenshot because testcase is successfully passed
+07/01/2020 23:51:20 devpinoyLogger Screenshot taken as testcase is successfully passed
+07/01/2020 23:51:20 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution started!!!
+07/01/2020 23:51:23 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution finished!!!
+07/01/2020 23:51:23 devpinoyLogger about to screenshot because testcase is successfully passed
+07/01/2020 23:51:24 devpinoyLogger Screenshot taken as testcase is successfully passed
+07/01/2020 23:51:24 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution started!!!
+07/01/2020 23:51:27 devpinoyLogger Testcase testCaseAddCustomerBankManager method execution finished!!!
+07/01/2020 23:51:27 devpinoyLogger about to screenshot because testcase is successfully passed
+07/01/2020 23:51:28 devpinoyLogger Screenshot taken as testcase is successfully passed
+07/01/2020 23:51:30 devpinoyLogger Test Execution completed!!!

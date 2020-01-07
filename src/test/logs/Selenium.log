@@ -1,0 +1,45 @@
+23:50:58,904 DEBUG devpinoyLogger:67 - Launched Chrome Driver
+23:51:04,273 DEBUG devpinoyLogger:79 - Navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+23:51:08,620 DEBUG devpinoyLogger:81 - Browser is maximized
+23:51:09,200 DEBUG devpinoyLogger:27 - Testcase TestCaseBankManagerLogin method execution started!!!
+23:51:12,404 DEBUG devpinoyLogger:43 - Testcase TestCaseBankManagerLogin method execution finished!!!
+23:51:12,405 DEBUG devpinoyLogger:99 - about to screenshot because testcase is successfully passed
+23:51:13,066 DEBUG devpinoyLogger:111 - Screenshot taken as testcase is successfully passed
+23:51:13,104 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:51:13,106 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:51:13,109 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:51:13,111 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:51:13,111 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:51:14,385 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:51:14,385 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:51:14,386 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:51:14,386 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:51:14,387 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:51:14,725 DEBUG devpinoyLogger:34 - Testcase testCaseAddCustomerBankManager method execution started!!!
+23:51:19,376 DEBUG devpinoyLogger:60 - Testcase testCaseAddCustomerBankManager method execution finished!!!
+23:51:19,378 DEBUG devpinoyLogger:99 - about to screenshot because testcase is successfully passed
+23:51:20,097 DEBUG devpinoyLogger:111 - Screenshot taken as testcase is successfully passed
+23:51:20,099 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:51:20,101 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:51:20,102 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:51:20,104 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:51:20,105 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:51:20,318 DEBUG devpinoyLogger:34 - Testcase testCaseAddCustomerBankManager method execution started!!!
+23:51:23,648 DEBUG devpinoyLogger:60 - Testcase testCaseAddCustomerBankManager method execution finished!!!
+23:51:23,649 DEBUG devpinoyLogger:99 - about to screenshot because testcase is successfully passed
+23:51:24,011 DEBUG devpinoyLogger:111 - Screenshot taken as testcase is successfully passed
+23:51:24,012 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:51:24,013 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:51:24,013 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:51:24,013 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:51:24,014 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:51:24,446 DEBUG devpinoyLogger:34 - Testcase testCaseAddCustomerBankManager method execution started!!!
+23:51:27,763 DEBUG devpinoyLogger:60 - Testcase testCaseAddCustomerBankManager method execution finished!!!
+23:51:27,764 DEBUG devpinoyLogger:99 - about to screenshot because testcase is successfully passed
+23:51:28,107 DEBUG devpinoyLogger:111 - Screenshot taken as testcase is successfully passed
+23:51:28,109 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:51:28,110 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:51:28,111 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:51:28,112 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:51:28,112 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:51:30,068 DEBUG devpinoyLogger:107 - Test Execution completed!!!
